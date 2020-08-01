@@ -1,6 +1,6 @@
 ### Hello, my name is Brage Røsberg!
 ### Check out some of my projects!
-* [Day Oraganizer (React GraphQL)][dayorganizer] :calendar: :sunny:
+* [Day Organizer (React GraphQL)][dayorganizer] :calendar: :sunny:
 * [Hackday][hackday] :bar_chart:
 * [React-Todo][reacttodo] :white_check_mark:
 * [Portfolio][portfolio] :man:
