@@ -6,14 +6,16 @@
 * [Portfolio][portfolio] :man:
 * [... See all!][myprojects]
 
-### Full Stack JavaScript Developer
-* I'm currently working on my [portfolio website][website]! :pencil2: 
-* I'm eager to learn new frameworks and technologies! :computer:
-
 
 ### Get in touch with me:
 [<img align="left" style="margin-left: 10px;" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" style="margin-left: 10px;" alt="codeSTACKr.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+</br>
+
+### Full Stack JavaScript Developer
+* I'm currently working on my [portfolio website][website]! :pencil2: 
+* I'm eager to learn new frameworks and technologies! :computer:
+
 
 </br>
 
