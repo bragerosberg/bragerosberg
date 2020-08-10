@@ -3,7 +3,7 @@
 * [Day Organizer (React GraphQL)][dayorganizer] :calendar: :sunny:
 * [Hackday][hackday] :bar_chart:
 * [React-Todo][reacttodo] :white_check_mark:
-* [Portfolio][portfolio] :man:
+* [Portfolio][portfolio]
 * [... See all!][myprojects]
 
 
@@ -13,8 +13,8 @@
 </br>
 
 ### Full Stack JavaScript Developer
-* I'm currently working on my [portfolio website][website]! :pencil2: 
-* I'm eager to learn new frameworks and technologies! :computer:
+* I'm currently working on multiple personal projects! :pencil2: 
+* I'm eager to try my ideas and gets excited to learn new frameworks and technologies! :computer:
 
 
 </br>
