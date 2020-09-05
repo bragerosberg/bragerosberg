@@ -6,7 +6,7 @@
 * [Portfolio][portfolio]
 * [... See all!][myprojects]
 
-
+**I am very interested in collaborating on projects, open to learn anything. Please feel free to contact** 
 ### Get in touch with me:
 [<img align="left" style="margin-left: 10px;" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" style="margin-left: 10px;" alt="codeSTACKr.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
