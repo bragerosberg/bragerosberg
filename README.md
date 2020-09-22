@@ -1,10 +1,11 @@
 ### Hello, my name is Brage Røsberg!
 ### Check out some of my projects!
-* [Day Organizer (React GraphQL)][dayorganizer] :calendar: :sunny:
-* [Hackday][hackday] :bar_chart:
-* [React-Todo][reacttodo] :white_check_mark:
+* [Budget Manager][budget]
+* [Day Organizer (React GraphQL)][dayorganizer] 
+* [Hackday][hackday] 
+* [React-Todo][reacttodo] 
 * [Portfolio][portfolio]
-* [... See all!][myprojects]
+* [... See all][myprojects]
 
 **I am very interested in collaborating on projects, open to learn anything. Please feel free to contact** 
 ### Get in touch with me:
@@ -44,3 +45,4 @@
  [reacttodo]: https://github.com/bragerosberg/ReactTodo
  [dayorganizer]: https://github.com/bragerosberg/DayOrganizer
  [myprojects]: https://github.com/bragerosberg?tab=repositories
+ [budget]: https://github.com/bragerosberg/BudgetManager
