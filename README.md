@@ -1,4 +1,4 @@
-### Hello, my name is Brage Røsberg!
+### Hello :wave: My name is Brage! 
 
 ### Full Stack JavaScript Developer
 * I'm currently working on multiple personal projects, [Vue Todo application][vuetodo], budget Manager for [browser][budgetmanager] and [android][budgetmanagerandroid]! :pencil2: 
