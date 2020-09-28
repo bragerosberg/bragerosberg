@@ -1,4 +1,9 @@
 ### Hello, my name is Brage Røsberg!
+
+### Full Stack JavaScript Developer
+* I'm currently working on multiple personal projects, [Vue Todo application][vuetodo], budget Manager for [browser][budgetmanager] and [android][budgetmanagerandroid]! :pencil2: 
+* I'm eager to try my ideas and gets excited to learn new frameworks and technologies! :computer:
+
 ### Check out some of my projects!
 * [Budget Manager][budget]
 * [Day Organizer][dayorganizer] 
@@ -12,14 +17,6 @@
 [<img align="left" style="margin-left: 10px;" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" style="margin-left: 10px;" alt="codeSTACKr.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <a href="mailto:bragecontact@gmail.com"><img width="40px" className="homepage__contact" alt="gmail" src="https://i.imgur.com/mo4E0Fb.png"/></a>
-
-</br>
-
-### Full Stack JavaScript Developer
-* I'm currently working on multiple personal projects, [Vue Todo application][vuetodo], budget Manager for [browser][budgetmanager] and [android][budgetmanagerandroid]! :pencil2: 
-* I'm eager to try my ideas and gets excited to learn new frameworks and technologies! :computer:
-
-</br>
 
  [linkedin]: https://www.linkedin.com/in/brage-rosberg/
  [website]: https://www.bragerosberg.com
