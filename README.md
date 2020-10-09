@@ -5,13 +5,15 @@
 * I'm eager to try my ideas and gets excited to learn new frameworks and technologies! :computer:
 
 ### Check out some of my projects!
-* [Budget Manager][budget]
-* [Day Organizer][dayorganizer] 
-* [Hackday][hackday] 
-* [ReactTodo][reacttodo]
-* [VueTodo][vuetodo]
-* [Portfolio][portfolio]
-* [... see all][myprojects]
+* [Budget Manager (Desktop and mobile)][budget]
+* [Budget Manager App (Android)][budgetmanagerandroid]
+* [Portfolio Website][portfolio]
+* [Day Organizer (Weather forecast with task management)][dayorganizer]
+* [Bidra Sammen (Two week sprint with my mob)][graduationproject]
+* [Hackday (1-day project)][hackday] 
+* [React Todo][reacttodo]
+* [Vue Todo][vuetodo]
+* [... see more][myprojects]
 
 ### Get in touch with me:
 [<img align="left" style="margin-left: 10px;" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -29,3 +31,4 @@
  [budgetmanagerandroid]: https://github.com/bragerosberg/budgetManagerNative
  [budgetmanager]: https://github.com/bragerosberg/BudgetManager
  [vuetodo]: https://github.com/bragerosberg/VueTodo
+ [graduationproject]: https://github.com/jopemoma/Graduation-Project
