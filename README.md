@@ -1,8 +1,8 @@
 ### Hello :wave: My name is Brage! 
 
 ### Full Stack JavaScript Developer
-* I'm currently working on multiple personal projects, [Vue Todo application][vuetodo], budget Manager for [browser][budgetmanager] and [android][budgetmanagerandroid]! :pencil2: 
-* I'm eager to try my ideas and gets excited to learn new frameworks and technologies! :computer:
+* Currently working on multiple personal projects, aswell as I'm reading up on Svelte and Firebase.
+* Eager to try my ideas and excited to learn new frameworks and technologies!
 
 ### Check out some of my projects!
 * [Budget Manager (Desktop and mobile)][budget]
