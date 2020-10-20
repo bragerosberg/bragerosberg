@@ -1,7 +1,7 @@
 ### Hello :wave: My name is Brage! 
 
 ### Full Stack JavaScript Developer
-* Currently working on multiple personal projects, aswell as I'm reading up on Svelte and Firebase.
+* Currently working on multiple personal projects, aswell as I'm reading up on Firebase.
 * Eager to try my ideas and excited to learn new frameworks and technologies!
 
 ### Check out some of my projects!
