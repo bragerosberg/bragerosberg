@@ -9,7 +9,7 @@
 * [Budget Manager App (Android)][budgetmanagerandroid]
 * [Portfolio Website][portfolio]
 * [Day Organizer (Weather forecast with task management)][dayorganizer]
-* [Bidra Sammen (Two week sprint with my mob)][graduationproject]
+* [Bidra Sammen (Two week sprint mob-programming)graduationproject]
 * [Hackday (1-day project)][hackday] 
 * [React Todo][reacttodo]
 * [Vue Todo][vuetodo]
