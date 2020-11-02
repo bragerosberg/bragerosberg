@@ -1,10 +1,10 @@
-### Hello :wave: My name is Brage! 
+### Hello :wave: my name is Brage
 
 ### Full Stack JavaScript Developer
-* Currently working on multiple personal projects, aswell as I'm reading up on Firebase.
-* Eager to try my ideas and excited to learn new frameworks and technologies!
+* Currently working on multiple personal projects
+* Eager to try my ideas and excited to learn new frameworks and technologies
 
-### Check out some of my projects!
+### My projects
 * [Budget Manager (Desktop and mobile)][budget]
 * [Budget Manager App (Android)][budgetmanagerandroid]
 * [Portfolio Website][portfolio]
