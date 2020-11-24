@@ -7,11 +7,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bragerosberg&hide=TeX&layout=compact)
 
 ### My projects
+* [Bidra Sammen (Two week SCRUM-sprint)][graduationproject]
 * [Budget Manager (Desktop and mobile)][budget]
 * [Budget Manager App (Android)][budgetmanagerandroid]
 * [Portfolio Website][portfolio]
 * [Day Organizer (Weather forecast with task management)][dayorganizer]
-* [Bidra Sammen (Two week sprint mob-programming)][graduationproject]
 * [Hackday (1-day project)][hackday] 
 * [React Todo][reacttodo]
 * [Vue Todo][vuetodo]
