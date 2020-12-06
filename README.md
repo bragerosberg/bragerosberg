@@ -10,7 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bragerosberg&hide=TeX&layout=compact)
 
-### My projects
+## Projects
 * [Bidra Sammen (Two week SCRUM-sprint)][graduationproject]
 * [Budget Manager (Desktop and mobile)][budget]
 * [Budget Manager App (Android)][budgetmanagerandroid]
