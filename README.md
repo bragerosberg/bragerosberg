@@ -16,7 +16,8 @@
 * [Budget Manager App (Android)][budgetmanagerandroid]
 * [Portfolio Website][portfolio]
 * [Day Organizer (Weather forecast with task management)][dayorganizer]
-* [Hackday (1-day project)][hackday] 
+* [Hackday (1-day project)][hackday]
+* [Image Renamer (Nodejs)][imageRenamer]
 * [React Todo][reacttodo]
 * [Vue Todo][vuetodo]
 * [... see more][myprojects]
@@ -33,3 +34,4 @@
  [budgetmanager]: https://github.com/bragerosberg/BudgetManager
  [vuetodo]: https://github.com/bragerosberg/VueTodo
  [graduationproject]: https://github.com/jopemoma/Graduation-Project
+ [imageRenamer]: https://github.com/bragerosberg/imageRenamer
