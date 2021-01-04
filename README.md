@@ -8,8 +8,6 @@
 * Currently working on multiple personal projects
 * Eager to try my ideas and excited to learn new frameworks and technologies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bragerosberg&hide=TeX&layout=compact)
-
 ## Projects
 * [Bidra Sammen (Two week SCRUM-sprint)][graduationproject]
 * [Budget Manager (Desktop and mobile)][budget]
@@ -21,6 +19,9 @@
 * [React Todo][reacttodo]
 * [Vue Todo][vuetodo]
 * [... see more][myprojects]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bragerosberg&hide=TeX&layout=compact)
+
 
  [linkedin]: https://www.linkedin.com/in/brage-rosberg/
  [website]: https://www.bragerosberg.com
