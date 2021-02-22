@@ -1,7 +1,5 @@
 ### Hello <img src="https://raw.githubusercontent.com/bragerosberg/bragerosberg/master/wave.gif" width="30px"> my name is Brage!
-
-
-### Full Stack JavaScript Developer
+## Full Stack JavaScript Developer
 
 ## Projects
 * [Bidra Sammen (Two week SCRUM-sprint)][graduationproject]
