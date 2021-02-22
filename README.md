@@ -1,5 +1,4 @@
 ### Hello <img src="https://raw.githubusercontent.com/bragerosberg/bragerosberg/master/wave.gif" width="30px"> my name is Brage!
-## Full Stack JavaScript Developer
 
 ## Projects
 * [Bidra Sammen (Two week SCRUM-sprint)][graduationproject]
@@ -14,7 +13,7 @@
 * [... see more][myprojects]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bragerosberg&hide=TeX&layout=compact)
-
+## Full Stack JavaScript Developer
 [<img align="left" style="margin-left: 10px;" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" style="margin-left: 10px;" alt="codeSTACKr.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <a href="mailto:bragecontact@gmail.com"><img width="40px" className="homepage__contact" alt="gmail" src="https://i.imgur.com/mo4E0Fb.png"/></a>
