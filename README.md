@@ -9,9 +9,9 @@ Hi, my name is Brage! <img src="https://raw.githubusercontent.com/bragerosberg/b
 
 ### Projects
 * [Bidra Sammen (Two week SCRUM-sprint)][graduationproject]
+* [Portfolio Website][portfolio]
 * [Budget Manager (Desktop and mobile)][budget]
 * [Budget Manager App (Android)][budgetmanagerandroid]
-* [Portfolio Website][portfolio]
 * [Day Organizer (Weather forecast with task management)][dayorganizer]
 * [Hackday (1-day project)][hackday]
 * [Image Renamer (Nodejs)][imageRenamer]
