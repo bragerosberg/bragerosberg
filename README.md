@@ -8,8 +8,8 @@ Hi, my name is Brage! <img src="https://raw.githubusercontent.com/bragerosberg/b
 🤝 [LinkedIn](https://www.linkedin.com/in/brage-rosberg/)
 
 ### Projects
-* [Bidra Sammen (Two week SCRUM-sprint)][graduationproject]
 * [Portfolio Website][portfolio]
+* [Bidra Sammen (Two week SCRUM-sprint)][graduationproject]
 * [Budget Manager (Desktop and mobile)][budget]
 * [Budget Manager App (Android)][budgetmanagerandroid]
 * [Day Organizer (Weather forecast with task management)][dayorganizer]
