@@ -1,7 +1,7 @@
 ## Brage Røsberg
 Hi, my name is Brage! <img src="https://raw.githubusercontent.com/bragerosberg/bragerosberg/master/wave.gif" width="30px">
 
-👨‍💻 Jr. Developer at [Dagens](https://dagens.farm/)
+👨‍💻 Jr. Developer at Schibsted
 
 💻 [Personal website](https://bragerosberg.com/#/)
 
