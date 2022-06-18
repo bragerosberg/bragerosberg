@@ -1,5 +1,5 @@
 ## Brage Røsberg
-Hi, my name is Brage! <img src="https://raw.githubusercontent.com/bragerosberg/bragerosberg/master/wave.gif" width="30px">
+Hi, my name is Brage!
 
 👨‍💻 Jr. Developer at Schibsted
 
