@@ -1,7 +1,5 @@
 ## Brage Røsberg
-Hi, my name is Brage!
-
-👨‍💻 Jr. Developer at Schibsted
+👨‍💻 Software Engineer at Schibsted
 
 💻 [Personal website](https://bragerosberg.com/#/)
 
@@ -17,7 +15,7 @@ Hi, my name is Brage!
 * [Image Renamer (Nodejs)][imageRenamer]
 * [React Todo][reacttodo]
 * [Vue Todo][vuetodo]
-* [... see my projects][myprojects]
+* [... view more][myprojects]
 
 ### Socials
 [<img align="left" style="margin-left: 10px;" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
