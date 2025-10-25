@@ -7,7 +7,7 @@
 📍 Oslo, Norway  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brage-rosberg/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E1E2F?style=for-the-badge&logo=react&logoColor=61DAFB)](https://bragerosberg.com)  
+[![Webpage](https://img.shields.io/badge/Portfolio-1E1E2F?style=for-the-badge)](https://bragerosberg.com)  
 [![Email](https://img.shields.io/badge/Email-bragecontact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bragecontact@gmail.com)
 
 </div>
